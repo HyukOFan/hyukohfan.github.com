@@ -22,11 +22,25 @@
 	border-radius: 5%;}
 
 #link{margin-top: 10px;}
-#if{color: white;}
+
+#if{color: white;font-size: 20px;
+    font-style: normal;}
+
+span {color: white;
+   font-size: 50px;
+   font-family: }
+
+#to{color: gray;
+    font-size: 15px;
+    font-style: italic;}
+
+a:hover{font-style: italic;
+         color: #990099;
+        text-decoration: none;}
+
 
 #videos{margin-left: 170px;}
 
 .container{margin-top: -283px;}
 
 .carousel-indicators{margin: -30px;}
-
